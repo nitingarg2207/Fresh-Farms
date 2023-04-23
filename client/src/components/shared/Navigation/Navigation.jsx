@@ -21,7 +21,7 @@ const Navigation = () => {
     <nav className={`${styles.navbar} container`}>
         <Link style={brandStyle} to="/">
             <img src="/images/logo.png" alt="logo" />
-            <span style={logotext}>Codershouse</span>
+            <span style={logotext}>Fresh Farms</span>
         </Link>
     </nav>
   )

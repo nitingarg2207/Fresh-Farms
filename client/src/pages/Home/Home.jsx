@@ -20,7 +20,7 @@ const Home = () => {
 
   return (
     <div className={styles.cardWrapper}>
-      <Card title="Welcome to Coderhouse!" icon="logo">
+      <Card title="Welcome to Freshfarms!" icon="logo">
       <p className={styles.text}>
           We're working hard to get Codershouse ready for everyone!
           we wrap up the finishing touches, we're adding people gradually
@@ -38,7 +38,7 @@ const Home = () => {
       {/* <div className={styles.card}>
         <div className={styles.headingWrapper}>
           <img src="/images/logo.png" alt="logo" />
-          <h1 className={styles.heading}>Welcome to Coderhouse!</h1>
+          <h1 className={styles.heading}>Welcome to Freshfarmms!</h1>
         </div>
         <p className={styles.text}>
           We 're sorking hard to get Codershouse ready for everyone!
